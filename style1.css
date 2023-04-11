@@ -1,0 +1,46 @@
+:is(.users-list) .content {
+    display: flex;
+    align-items: center;
+}
+
+:is(.users-list) .content .details {
+    color: #000;
+    margin-left: 20px;
+}
+
+:is(.users-list) .details span {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.userHm .search {
+    display: none;
+}
+
+.users-list {
+    overflow-y: auto;
+}
+
+.users-list img {
+    object-fit: cover;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.chat-box .incoming {
+    display: flex;
+    align-items: flex-end;
+}
+
+.chat-box .incoming img {
+    height: 35px;
+    width: 35px;
+}
+.chat-area header .back-icon {
+    display: none;
+}
+.chat-box {
+    max-height: 350px;
+    overflow-y: auto;
+}
