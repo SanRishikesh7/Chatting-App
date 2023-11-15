@@ -1,6 +1,6 @@
 # Bubble - Chatting App
 
-ChatSphere is a real-time chat application that enables seamless communication between users. This web-based platform allows users to sign up, chat instantly, and access previous conversations easily.
+Bubble is a real-time chat application that enables seamless communication between users. This web-based platform allows users to sign up, chat instantly, and access previous conversations easily.
 
 ## Features
 
